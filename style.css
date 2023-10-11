@@ -1,0 +1,110 @@
+.header {
+    float: left;
+    padding-left: 10px;
+    width: 1490px;
+    padding: 10px;
+    background-color:coral;
+}
+.sidebar {
+    float: left;
+    padding-left: 10px;
+    width: 20%;
+    height: 300px;
+    background-color: #d3b518;
+}
+.main {
+    float: left;
+    padding-left: 10px;
+    width: 1190px;
+    height: 300px;
+    background-color: #456781;
+}
+.mainn {
+    float: left;
+    width: 1510px;
+    height: 1000px;
+    background-color: #456781;
+}
+.footer {
+    float: left;
+    padding-left: 10px;
+    width: 1505px;
+    height: 50px;
+    background-color: #89b23c;
+}
+.logo {
+    float: left;
+    width: 50px;
+    padding: 10px;
+    background-color: palevioletred;
+}
+.navigation {
+    float: right;
+    width: 100px;
+    padding: 10px;
+    background-color: darkred;
+}
+.post_title {
+    float: left;
+    color: white;
+    padding-left: 15px;
+    margin: 15px 15px 0px 15px;
+    width: 97%;
+    height: 200px;
+    background-color: #89b23c;
+}
+.img_title {
+    float: left;
+    padding-left: 15px;
+    color: white;
+    width: 110px;
+    height: 110px;
+    background-color: #5c752b;
+}
+.lorem_title {
+    float: left;
+    margin: 0px 0px 0px 50px;
+    color: white;
+    width: 85%;
+    height: 70px;
+    padding-left: 10px;
+    background-color: #364919;
+}
+.mainwhite {
+    float: left;
+    margin: 0px 200px 0px 200px;
+    width: 75%;
+    height: 500px;
+    background-color: #c2c2c2;
+}
+.sidebar2 {
+    float: left;
+    margin: 10px 0px 0px 10px;
+    width: 270px;
+    height: 300px;
+    background-color: #d3b518;
+}
+.maimcontent {
+    float: left;
+    margin: 10px 0px 0px 0px;
+    width: 525px;
+    height: 300px;
+    background-color: #5e8cad;
+}
+.subcontent {
+     float: left;
+    margin: 10px 0px 0px 0px;
+     width: 320px;
+     height: 300px;
+     background-color: #293f4d;
+ }
+.footer2{
+    float: left;
+    margin: 0px 10px 10px 10px;
+    width: 97.80%;
+    height: 180px;
+    background-color: #89b23c;
+
+}
+
+
